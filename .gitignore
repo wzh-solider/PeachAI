@@ -4,3 +4,4 @@
 /visualdl_log_dir
 *.csv
 *.log
+*.ipynb
