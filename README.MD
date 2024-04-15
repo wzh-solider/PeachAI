@@ -23,3 +23,5 @@
 
 ![model_test](readme_imgs/model_test.png)
 ![model_test_log](readme_imgs/model_test_log.png)
+![saved_model](readme_imgs/saved_model.png)
+![result](readme_imgs/result.png)
