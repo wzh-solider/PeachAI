@@ -1,7 +1,0 @@
-/data/enhancement_data/*.txt
-/data/splitted_training_data/*
-/saved_model
-/visualdl_log_dir
-*.csv
-*.log
-*.ipynb
